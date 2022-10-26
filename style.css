@@ -3,3 +3,7 @@
     --dark-color: #141414;
     --light-color: #f4f4f4;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
