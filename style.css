@@ -311,7 +311,7 @@ img{
     align-items: center;
     grid-template-columns: 50% 40%;
 }
-.input input{
+.input input{      /* One thing is not clear about two times input here */
     width: 600px;
     height: 3rem;
 }
