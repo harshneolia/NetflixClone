@@ -245,3 +245,19 @@ img{
     padding-left: 80px;
     padding-right: 20px;
 }
+.card-3 img{
+    width: 110%;
+    grid-column: 2/2;
+    grid-row: 1/2;
+}
+
+.card-3 video{
+    position: relative;
+    top: -87px;
+    left: 125px;
+    width: 65%;
+    height: 78%;
+    grid-column: 2/2;
+    grid-row: 1/2;
+    z-index: -1;
+}
