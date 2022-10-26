@@ -103,3 +103,10 @@ img{
     align-items: center;
     margin-top: 9rem;
 }
+.clone-content h1{
+    font-weight: 700;
+    font-size: 64px;
+    margin: 0 30px;
+    max-width: 800px;
+    line-height: 74.5px;
+}
