@@ -193,3 +193,17 @@ img{
     align-items: center;
     padding: 25px 45px 50px;
 }
+.desc-1{
+    padding-left: 80px;
+}
+
+.style-cards h1{
+    font-size: 3rem;
+    padding: 1rem;
+    padding-left: 0;
+}
+
+.style-cards h3{
+    font-size: 1.6rem;
+    line-height: 2rem;
+}
