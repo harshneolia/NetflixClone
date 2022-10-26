@@ -33,6 +33,21 @@ p{
     font-weight: bold;
     color: #ffffff;
 }
+.footer{
+    max-width: 70%;
+    margin: 1rem auto;
+    overflow: auto;
+}
+
+.footer ,
+.footer a{
+    color: #999999;
+    font-size: 0.9rem;
+}
+
+.footer p{
+    margin-bottom: 1.5rem;
+}
 img{
     width: 100%;
 }
