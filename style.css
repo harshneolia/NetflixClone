@@ -220,3 +220,15 @@ img{
     grid-column: 2/2;
     grid-row: 1/2;
 }
+.card-2{
+    position: relative;
+    display: inline-grid;
+    grid-template-columns: 40% 50%;
+    text-align: left;
+    align-items: center;
+    padding: 25px 45px 50px;
+}
+
+.desc-2{
+    padding-left: 100px;
+}
