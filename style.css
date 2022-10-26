@@ -269,3 +269,19 @@ img{
     padding-bottom: 40px;
     font-size: 3rem;
 }
+.questions{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 40%;
+    align-items: center;
+}
+
+.questions li{
+    padding: 20px 30px;
+    margin: 5px;
+    font-size: 1.6rem;
+    background-color: #303030;
+    color: white;
+    text-align: left;
+    width: 50%;
+}
