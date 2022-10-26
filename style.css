@@ -232,3 +232,16 @@ img{
 .desc-2{
     padding-left: 100px;
 }
+.card-3{
+    position: relative;
+    display: inline-grid;
+    grid-template-columns: 50% 40%;
+    text-align: left;
+    align-items: center;
+    padding: 25px 45px 50px;
+}
+
+.desc-3{
+    padding-left: 80px;
+    padding-right: 20px;
+}
