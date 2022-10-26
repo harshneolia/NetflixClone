@@ -261,3 +261,11 @@ img{
     grid-row: 1/2;
     z-index: -1;
 }
+.faq{
+    text-align: center;
+}
+
+.faq h1{
+    padding-bottom: 40px;
+    font-size: 3rem;
+}
