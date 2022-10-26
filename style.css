@@ -185,3 +185,11 @@ img{
 .desc-0{
     padding-left: 100px;
 }
+.card-1{
+    position: relative;
+    display: inline-grid;
+    grid-template-columns: 50% 40%;
+    text-align: left;
+    align-items: center;
+    padding: 25px 45px 50px;
+}
