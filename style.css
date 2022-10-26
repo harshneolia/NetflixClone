@@ -54,3 +54,16 @@ img{
     background: rgba(0, 0, 0, 0.4);
     box-shadow: 120px 100px 250px #000000 , inset -120px -100px 250px #000000;
 }
+.clone-top{
+    position: relative;
+    z-index: 2;
+    height: 90px;
+}
+
+.clone-top img{
+    width: 140px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(40% , -50%);
+}
